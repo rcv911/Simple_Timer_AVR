@@ -6,7 +6,8 @@ Simple real timer on ATmega16 based on 3 seven segment leds (counting 10 minutes
 - Button 0 resets timer 
 - Button 1 starts timer 
 - Button 2 pauses timer
-Electrical circuit connection of segments:
+
+>Electrical circuit connection of segments:
 ![](images/7segments.png)
 
 ## Motivation
